@@ -67,7 +67,7 @@ The Block Storage plug-in is a persistent, high-performance iSCSI storage that y
 ![block-create](/block-storage-create.png)
  
 
-## Step 3 deploy Jenkins
+## Step 3 deploy PostgreSQL
   
 We will deploy  PostgreSQL on our cluster 
   
@@ -84,7 +84,7 @@ We will deploy  PostgreSQL on our cluster
 * Click on  **Enter or Select Namespace** and choose the default Namespace or use a custom one 
 ![Namespace](/details-namespace.png)
 * Give a unique **name** to workspace, which you can easily recognize
-![Name](/details-names.png)
+![Name](/details-name.png)
 * Select which resource group you want to use, it's for access controll and billing purposes. For more information please visit [resource groups]
 
 ![dr-resource](/details-resource.png)
