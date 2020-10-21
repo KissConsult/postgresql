@@ -74,7 +74,7 @@ We will deploy  PostgreSQL on our cluster
 * Click the **Catalog** button on the top 
 * Select **Software** from the catalog
 * Search for **PostgreSQL** and click on it
-![Nginx](/search.png)
+![postg](/search.png)
 
 * Please select IBM Kubernetes Service
 ![target](/target-select.png)
