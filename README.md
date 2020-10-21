@@ -77,7 +77,7 @@ We will deploy  PostgreSQL on our cluster
 ![Nginx](/search.png)
 
 * Please select IBM Kubernetes Service
-![target](/select-target.png)
+![target](/target-select.png)
 
 * On the application page Click in the _dot_ next to the cluster, you wish to use
 ![Cluster](/cluster-select.png)
